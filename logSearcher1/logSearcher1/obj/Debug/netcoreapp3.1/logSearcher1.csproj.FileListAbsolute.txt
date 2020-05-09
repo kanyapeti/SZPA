@@ -1,0 +1,13 @@
+C:\Users\Peti\source\repos\logSearcher1\logSearcher1\obj\Debug\netcoreapp3.1\logSearcher1.csprojAssemblyReference.cache
+C:\Users\Peti\source\repos\logSearcher1\logSearcher1\obj\Debug\netcoreapp3.1\logSearcher1.csproj.CoreCompileInputs.cache
+C:\Users\Peti\source\repos\logSearcher1\logSearcher1\obj\Debug\netcoreapp3.1\logSearcher1.AssemblyInfoInputs.cache
+C:\Users\Peti\source\repos\logSearcher1\logSearcher1\obj\Debug\netcoreapp3.1\logSearcher1.AssemblyInfo.cs
+C:\Users\Peti\source\repos\logSearcher1\logSearcher1\bin\Debug\netcoreapp3.1\logSearcher1.exe
+C:\Users\Peti\source\repos\logSearcher1\logSearcher1\bin\Debug\netcoreapp3.1\logSearcher1.deps.json
+C:\Users\Peti\source\repos\logSearcher1\logSearcher1\bin\Debug\netcoreapp3.1\logSearcher1.runtimeconfig.json
+C:\Users\Peti\source\repos\logSearcher1\logSearcher1\bin\Debug\netcoreapp3.1\logSearcher1.runtimeconfig.dev.json
+C:\Users\Peti\source\repos\logSearcher1\logSearcher1\bin\Debug\netcoreapp3.1\logSearcher1.dll
+C:\Users\Peti\source\repos\logSearcher1\logSearcher1\bin\Debug\netcoreapp3.1\logSearcher1.pdb
+C:\Users\Peti\source\repos\logSearcher1\logSearcher1\obj\Debug\netcoreapp3.1\logSearcher1.dll
+C:\Users\Peti\source\repos\logSearcher1\logSearcher1\obj\Debug\netcoreapp3.1\logSearcher1.pdb
+C:\Users\Peti\source\repos\logSearcher1\logSearcher1\obj\Debug\netcoreapp3.1\logSearcher1.genruntimeconfig.cache
