@@ -1,0 +1,13 @@
+C:\Users\Peti\source\repos\createFolders\createFolders\bin\Debug\netcoreapp3.1\createFolders.exe
+C:\Users\Peti\source\repos\createFolders\createFolders\bin\Debug\netcoreapp3.1\createFolders.deps.json
+C:\Users\Peti\source\repos\createFolders\createFolders\bin\Debug\netcoreapp3.1\createFolders.runtimeconfig.json
+C:\Users\Peti\source\repos\createFolders\createFolders\bin\Debug\netcoreapp3.1\createFolders.runtimeconfig.dev.json
+C:\Users\Peti\source\repos\createFolders\createFolders\bin\Debug\netcoreapp3.1\createFolders.dll
+C:\Users\Peti\source\repos\createFolders\createFolders\bin\Debug\netcoreapp3.1\createFolders.pdb
+C:\Users\Peti\source\repos\createFolders\createFolders\obj\Debug\netcoreapp3.1\createFolders.csproj.CoreCompileInputs.cache
+C:\Users\Peti\source\repos\createFolders\createFolders\obj\Debug\netcoreapp3.1\createFolders.AssemblyInfoInputs.cache
+C:\Users\Peti\source\repos\createFolders\createFolders\obj\Debug\netcoreapp3.1\createFolders.AssemblyInfo.cs
+C:\Users\Peti\source\repos\createFolders\createFolders\obj\Debug\netcoreapp3.1\createFolders.dll
+C:\Users\Peti\source\repos\createFolders\createFolders\obj\Debug\netcoreapp3.1\createFolders.pdb
+C:\Users\Peti\source\repos\createFolders\createFolders\obj\Debug\netcoreapp3.1\createFolders.genruntimeconfig.cache
+C:\Users\Peti\source\repos\createFolders\createFolders\obj\Debug\netcoreapp3.1\createFolders.csprojAssemblyReference.cache
